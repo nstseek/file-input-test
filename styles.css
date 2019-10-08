@@ -1,0 +1,20 @@
+html, body {
+    background-color: black;
+}
+
+* {
+    color: white;
+    margin: 10px;
+}
+
+img {
+    width: 900px;
+    height: auto;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
